@@ -30,7 +30,7 @@
 <h2> Connect with me <img src='' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/gabriel-troni/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://wa.me/5569992182298'> <img width = '32px' align= 'center' src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-icone.png"/></a> 
-<a href = 'aaa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = "mailto:troni.gabriel.10@gmail.com" target="_blank"><font color="gray">Gmail</font></a>'> <img width = '32px' align= 'center' src="https://www.freepngimg.com/download/gmail/66428-icons-computer-google-email-gmail-free-transparent-image-hq.png></a> 
 <a href = 'aaa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
   

@@ -16,19 +16,21 @@
 
 - 💬 Talk to me about HTML, CSS, JavaScript, Freelancing Opportunites, Open Source 
 
-<h2> Skills <img src = "" width = 32px height=32px> </h2>
+<h2> Skills <img src = "https://cdn.icon-icons.com/icons2/3178/PNG/512/coding_computer_pc_screen_code_icon_193925.png" width = 32px height=32px> </h2>
 <a href= https://github.com/aaa?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/aaa?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/aaa?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/aaa?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 mailto:troni.gabriel.10@gmail.com
 
-<h2> Connect with me <img src='' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/gabriel-troni/' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://wa.me/5569992182298' target="_blank"> <img width = '32px' align= 'center' src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-icone.png"/></a> 
-<a href = 'mailto:troni.gabriel.10@gmail.com' target="_blank"> <img width = '32px' align= 'center' src="https://www.freepngimg.com/download/gmail/66428-icons-computer-google-email-gmail-free-transparent-image-hq.png"/></a> 
-<a href = 'https://gabriel-troni.github.io/Desafio-de-projeto-HTML-e-CSS.github.io/' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<h2> Connect with me <img src= "https://cdn.icon-icons.com/icons2/2074/PNG/512/chat_communication_message_talk_icon_127139.png" width="50px" height=50px> </h2>
+<a href = 'https://www.linkedin.com/in/gabriel-troni/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://wa.me/5569992182298'> <img width = '32px' align= 'center' src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-icone.png"/></a> 
+<a href = 'mailto:troni.gabriel.10@gmail.com'> <img width = '32px' align= 'center' src="https://www.freepngimg.com/download/gmail/66428-icons-computer-google-email-gmail-free-transparent-image-hq.png"/></a> 
+<a href = 'https://gabriel-troni.github.io/Desafio-de-projeto-HTML-e-CSS.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
 </br>
 </br>
+</br>
+
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>

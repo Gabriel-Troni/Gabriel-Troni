@@ -9,11 +9,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-🔭 I’m currently working on RD Project
+🔭 I’m currently coding some projects with HTML & CSS
   
-🌱 I’m currently learning Advanced HTML & CSS
+🌱 I’m currently learning HTML, CSS and JavaScript
 
-💬 Talk to me about HTML, CSS, JavaScript, Freelancing Opportunites, Open Source
+💬 Talk to me about Freelancing Opportunites, Open Source, Courses and Remote Jobs
 
 <h2> Hard Skills <img src = "https://cdn.icon-icons.com/icons2/1829/PNG/512/settingstoolswheel-115840_115789.png" width = 22px height=22px> </h2>
 <a href= https://github.com/aaa?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>

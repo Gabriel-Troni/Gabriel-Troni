@@ -2,14 +2,18 @@
 
  <div>
    <a href="https://github.com/Gabriel-Troni">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Troni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Troni&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="CSS" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png">
+  <img align="center" alt="CSS" height="30" width="30" src="https://imgs.search.brave.com/7ehjHEb3ftIHhVHSeL6BnY1ZoWvaiA-NbF9QMjqOK4I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zcWwtZGF0/YWJhc2Utc3FsLWF6/dXJlLWljb24tMjQ1/eDI1Ni15Z285cHJo/NS5wbmc">
+  <img align="center" alt="CSS" height="20" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/php-programming-language-icon.png">
+  <img align="center" alt="CSS" height="25" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png">
+  <img align="center" alt="CSS" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.png">
 </div>
  
  <br>

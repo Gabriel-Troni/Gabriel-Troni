@@ -25,7 +25,4 @@
   <a href="https://www.linkedin.com/in/gabriel-troni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://api.whatsapp.com/send?phone=5569992182298" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/gabrieltroni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
-
 </div>

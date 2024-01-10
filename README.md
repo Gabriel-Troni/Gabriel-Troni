@@ -6,14 +6,17 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png">
-  <img align="center" alt="SQL" height="30" width="30" src="https://imgs.search.brave.com/7ehjHEb3ftIHhVHSeL6BnY1ZoWvaiA-NbF9QMjqOK4I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zcWwtZGF0/YWJhc2Utc3FsLWF6/dXJlLWljb24tMjQ1/eDI1Ni15Z285cHJo/NS5wbmc">
-  <img align="center" alt="PHP" height="20" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/php-programming-language-icon.png">
-  <!-- <img align="center" alt="Docker" height="25" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png"> -->
-  <img align="center" alt="Git" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.png">
+  <img align="center" alt="SQL Server" height="30" width="30" src="./assets/sqlServer.png">
+  <img align="center" alt="mySQL" height="30" width="30" src="./assets/mySQL.png">
+  <img align="center" alt="SQL" height="30" width="30" src="./assets/sql.webp">
+  <img align="center" alt="power BI" height="30" width="30" src="./assets/powerBI.png">
+  <img align="center" alt="PHP" height="20" width="40" src="./assets/php.png">
+  <img align="center" alt="Js" height="30" width="30" src="./assets/js.svg">
+  <img align="center" alt="CSS" height="30" width="30" src="./assets/css.svg">
+  <img align="center" alt="HTML" height="30" width="30" src="./assets/html.svg">
+  <img align="center" alt="C" height="30" width="30" src="./assets/c.png">
+  <!-- <img align="center" alt="Docker" height="25" width="35" src="./assets/docker.png"> -->
+  <!-- <img align="center" alt="Git" height="30" width="30" src="./assets/git.png"> -->
 </div>
  
  <br>

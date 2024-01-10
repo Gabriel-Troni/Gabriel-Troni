@@ -14,7 +14,7 @@
   <img align="center" alt="Js" height="40px" width="40px" src="./assets/js.svg">
   <img align="center" alt="CSS" height="40px" width="40px" src="./assets/css.svg">
   <img align="center" alt="HTML" height="40px" width="40px" src="./assets/html.svg">
-  <img align="center" alt="C" height="40px" width="40px" src="./assets/c.png">
+  <img align="center" alt="C" height="40px" width="35px" src="./assets/c.png">
   <!-- <img align="center" alt="Docker" height="25" width="35" src="./assets/docker.png"> -->
   <!-- <img align="center" alt="Git" height="40px" width="40px" src="./assets/git.png"> -->
 </div>

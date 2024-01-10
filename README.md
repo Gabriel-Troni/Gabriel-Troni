@@ -10,6 +10,7 @@
   <img align="center" alt="mySQL" height="40px" width="40px" src="./assets/mySQL.png">
   <img align="center" alt="SQL" height="40px" width="40px" src="./assets/sql.webp">
   <img align="center" alt="power BI" height="40px" width="40px" src="./assets/powerBI.png">
+  <img align="center" alt="Excel" height="40px" width="40px" src="./assets/excel.png">  
   <img align="center" alt="PHP" height="20" width="40" src="./assets/php.png">
   <img align="center" alt="Js" height="40px" width="40px" src="./assets/js.svg">
   <img align="center" alt="CSS" height="40px" width="40px" src="./assets/css.svg">

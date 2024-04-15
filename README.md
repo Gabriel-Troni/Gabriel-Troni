@@ -9,7 +9,7 @@
   <img align="center" alt="Oracle" height="40px" width="35px" src="./assets/oracle.webp">
   <img align="center" alt="SQL Server" height="40px" width="40px" src="./assets/sqlServer.png">
   <img align="center" alt="mySQL" height="40px" width="40px" src="./assets/mySQL.png">
-  <img align="center" alt="Python" height="40px" width="35px" src="./assets/python.webp">
+  <img align="center" alt="Python" height="35px" width="35px" src="./assets/python.webp">
   <img align="center" alt="Pandas" height="40px" width="35px" src="./assets/pandas.png">
   <img align="center" alt="Jupyter" height="40px" width="35px" src="./assets/jupyter.png">
   <!--<img align="center" alt="SQL" height="40px" width="40px" src="./assets/sql.webp">-->

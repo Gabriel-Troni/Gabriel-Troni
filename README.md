@@ -1,14 +1,14 @@
 ## Welcome to my GitHub profile! 😁
-
+### Main stack:
  <div>
    <a href="https://github.com/Gabriel-Troni">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Troni&layout=compact&langs_count=6&theme=tokyonight"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Troni&layout=compact&langs_count=6&theme=tokyonight"/>-->
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Oracle" height="40px" width="35px" src="./assets/oracle.webp">
-  <img align="center" alt="SQL Server" height="40px" width="40px" src="./assets/sqlServer.png">
+  <img align="center" alt="Oracle" height="40px" width="45px" src="./assets/oracle.png">
   <img align="center" alt="mySQL" height="40px" width="40px" src="./assets/mySQL.png">
+  <img align="center" alt="SQL Server" height="40px" width="50px" src="./assets/sqlServer.png">
   <img align="center" alt="Python" height="35px" width="35px" src="./assets/python.webp">
   <img align="center" alt="Pandas" height="40px" width="35px" src="./assets/pandas.png">
   <img align="center" alt="Jupyter" height="40px" width="35px" src="./assets/jupyter.png">

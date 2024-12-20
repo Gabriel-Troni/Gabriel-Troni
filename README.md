@@ -21,8 +21,8 @@
 
 <h2 align="left">Certifications: </h2>
 <p>
-  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/5980314B113D89D7?sharingId=D086D9D18823ED2F"><img src="certifications/AZ900-badge.png" height="90"/></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/9C0532419F5B8D95?sharingId=D086D9D18823ED2F"><img src="certifications/DP900-badge.png" height="90"/></a>
+  <a href="https://certs.duolingo.com/f54402b3c87c5db1a5976b4dfbe618f4"><img src="assets/duolingoEnglishTestLogo.png" title="Upper Intermediate English Level: CEFR B2" height="80"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/GabrielTroni-9147/BCB4241CA23C9FAB?sharingId=F417EF2895D34851"><img src="assets/azureAiFundamentals.png" title="AI-900: Azure's Artificial Intelligence Fundamentals" height="80"/></a>
 </p>
 
 

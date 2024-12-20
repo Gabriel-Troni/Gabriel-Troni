@@ -7,25 +7,28 @@
    <a href="mailto:gabriel.troni@ufpr.br" target="_blank"><img src="https://img.shields.io/badge/Email-dd4b3f?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-- Atualmente estou trabalhando como **Analista de Suporte** na **[APK](https://www.apk.com.br/)**
+<h2 align="left">About Me</h2>
 
-- No quinto período do curso de Análise e Desenvolvimento de Sistemas na UFPR
+💼 Currently working as **IT Support** at **[APK Transportation and Logistics](https://www.apk.com.br/)**
 
-- 🌱 Eu estou estudando **Spring Boot com Java & Kotlin**
+📚 In the 5th semester (out of 6) of my undergraduate course in Systems Analysis and Development at UFPR
 
-- 📄 Para saber mais de mim [Gabriel Troni](https://www.linkedin.com/in/gabriel-troni/)
+👨🏻‍💻 Currently learning **how to build REST APIs with Spring Boot, Java, and Kotlin**
 
+💡 To learn more about me, visit: [Gabriel Troni](https://www.linkedin.com/in/gabriel-troni/)
+
+</br>
 <p align="left">
 <img width="59%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Troni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Troni&theme=tokyonight&hide_progress=true&langs_count=8"/>
 </p>
 
-<h2 align="left">Certifications: </h2>
+<h2 align="left">Certifications</h2>
 <p>
   <a href="https://certs.duolingo.com/f54402b3c87c5db1a5976b4dfbe618f4"><img src="assets/duolingoEnglishTestLogo.png" title="Upper Intermediate English Level: CEFR B2" height="80"/></a>
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/GabrielTroni-9147/BCB4241CA23C9FAB?sharingId=F417EF2895D34851"><img src="assets/azureAiFundamentals.png" title="AI-900: Azure's Artificial Intelligence Fundamentals" height="80"/></a>
 </p>
 
 
-<h2 align="left">Main Stack:</h2>
+<h2 align="left">Main Stack</h2>
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,angular,ts,tailwindcss,docker,postman,vscode,git,github,bash,linux,html&perline=8" alt="My skills">

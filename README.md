@@ -1,36 +1,30 @@
-## Welcome to my GitHub profile! 😁
-### Main stack:
- <div>
-   <a href="https://github.com/Gabriel-Troni">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Troni&layout=compact&langs_count=6&theme=tokyonight"/>-->
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Oracle" height="40px" width="45px" src="./assets/oracle.png">
-  <img align="center" alt="mySQL" height="40px" width="40px" src="./assets/mySQL.png">
-  <img align="center" alt="SQL Server" height="40px" width="50px" src="./assets/sqlServer.png">
-  <img align="center" alt="Python" height="35px" width="35px" src="./assets/python.webp">
-  <img align="center" alt="Pandas" height="40px" width="35px" src="./assets/pandas.png">
-  <img align="center" alt="Jupyter" height="40px" width="35px" src="./assets/jupyter.png">
-  <!--<img align="center" alt="SQL" height="40px" width="40px" src="./assets/sql.webp">-->
-  <img align="center" alt="power BI" height="40px" width="40px" src="./assets/powerBI.png">
-  <img align="center" alt="Excel" height="40px" width="40px" src="./assets/excel.png">  
-  <!--<img align="center" alt="PHP" height="20" width="40" src="./assets/php.png">-->
-  <!--<img align="center" alt="Js" height="40px" width="40px" src="./assets/js.svg">-->
-  <!--<img align="center" alt="CSS" height="40px" width="40px" src="./assets/css.svg">-->
-  <!--<img align="center" alt="HTML" height="40px" width="40px" src="./assets/html.svg">-->
-  <img align="center" alt="Docker" height="25" width="35" src="./assets/docker.png">
-  <img align="center" alt="Git" height="40px" width="40px" src="./assets/git.png">
-  <img align="center" alt="C" height="40px" width="35px" src="./assets/c.png">
-</div>
- 
- <br>
- 
-  ### Connect with me:
- 
-<div>
-  <a href = "mailto:troni.gabriel.10@gmail.com" target = "_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-troni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5569992182298" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/gabrieltroni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-</div>
+<p align="left"> 
+   <img src="https://komarev.com/ghpvc/?username=Gabriel-Troni&label=Profile%20views&color=6969ff&style=for-the-badge" alt="Gabriel Troni's profile views" /> 
+   <a href="https://linkedin.com/in/gabriel-troni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://api.whatsapp.com/send?phone=5569992182298" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   <a href="mailto:gabriel.troni@ufpr.br" target="_blank"><img src="https://img.shields.io/badge/Email-dd4b3f?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+- Atualmente estou trabalhando como **Analista de Suporte** na **[APK](https://www.apk.com.br/)**
+
+- No quinto período do curso de Análise e Desenvolvimento de Sistemas na UFPR
+
+- 🌱 Eu estou estudando **Spring Boot com Java & Kotlin**
+
+- 📄 Para saber mais de mim [Gabriel Troni](https://www.linkedin.com/in/gabriel-troni/)
+
+<p align="left">
+<img width="59%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Troni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Troni&theme=tokyonight&hide_progress=true&langs_count=8"/>
+</p>
+
+<h2 align="left">Certifications: </h2>
+<p>
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/5980314B113D89D7?sharingId=D086D9D18823ED2F"><img src="certifications/AZ900-badge.png" height="90"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/9C0532419F5B8D95?sharingId=D086D9D18823ED2F"><img src="certifications/DP900-badge.png" height="90"/></a>
+</p>
+
+
+<h2 align="left">Main Stack:</h2>
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,angular,ts,tailwindcss,docker,postman,vscode,git,github,bash,linux,html&perline=8" alt="My skills">

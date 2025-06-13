@@ -9,7 +9,7 @@
 
 <h2 align="left">About Me</h2>
 
-💼 Currently working as **Back-end Developer** at **[Compass UOL]([https://www.apk.com.br/](https://www.linkedin.com/company/compass-uol/posts/?feedView=all))**
+💼 Currently working as a **Back-end Development Intern** at **[Compass UOL]([https://www.apk.com.br/](https://www.linkedin.com/company/compass-uol/posts/?feedView=all))**
 
 📚 In the 5th semester (out of 6) of my undergraduate course in Systems Analysis and Development at UFPR
 

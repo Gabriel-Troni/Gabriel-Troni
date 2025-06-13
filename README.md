@@ -7,15 +7,19 @@
    <a href="mailto:gabriel.troni@ufpr.br" target="_blank"><img src="https://img.shields.io/badge/Email-dd4b3f?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<h2 align="left">About Me</h2>
+<h2 align="left">Sobre mim<br><i>About Me</i></h2>
 
-💼 Currently working as a **Back-end Development Intern** at **[Compass UOL]([https://www.apk.com.br/](https://www.linkedin.com/company/compass-uol/posts/?feedView=all))**
+💼 Atualmente estagiando como **desenvolvedor back-end** na **[Compass UOL](https://www.linkedin.com/company/compass-uol/posts/?feedView=all)**  
+⠀⠀⠀<i>Currently working as a <strong>Back-end Development Intern</strong> at <strong>Compass UOL</strong></i>
 
-📚 In the 5th semester (out of 6) of my undergraduate course in Systems Analysis and Development at UFPR
+📚 Estou no 5º semestre (de 6) do curso de Análise e Desenvolvimento de Sistemas na UFPR  
+⠀⠀⠀<i>In the 5th semester (out of 6) of my undergraduate course in Systems Analysis and Development at UFPR</i>
 
-👨🏻‍💻 Currently learning **how to build REST APIs with Node.js**
+👨🏻‍💻 Atualmente aprendendo a **criar APIs REST com Node.js**  
+⠀⠀ <i>Currently learning <strong>how to build REST APIs with Node.js</strong></i>
 
-💡 To learn more about me, visit: [Gabriel Troni](https://www.linkedin.com/in/gabriel-troni/)
+💡 Para saber mais sobre mim, acesse: [Gabriel Troni](https://www.linkedin.com/in/gabriel-troni/)  
+⠀⠀⠀<i>To learn more about me, visit: <a href="https://www.linkedin.com/in/gabriel-troni/">Gabriel Troni</a></i>
 
 </br>
 <p align="left">

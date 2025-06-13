@@ -31,4 +31,4 @@
 
 
 <h2 align="left">Main Stack</h2>
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,angular,ts,tailwindcss,docker,postman,vscode,git,github,bash,linux,html&perline=8" alt="My skills">
+<img src="https://skillicons.dev/icons?i=nodejs,aws,docker,rabbitmq,mongodb,git,spring,java,kotlin,postgres,mysql,express&perline=6" alt="My skills">

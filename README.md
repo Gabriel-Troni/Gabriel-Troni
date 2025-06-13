@@ -19,7 +19,7 @@
 ⠀⠀ <i>Currently learning how to build REST APIs with Node.js</i>
 
 💡 Para saber mais sobre mim, acesse: [Gabriel Troni](https://www.linkedin.com/in/gabriel-troni/)  
-⠀⠀⠀<i>To learn more about me, visit: [Gabriel Troni](https://www.linkedin.com/in/gabriel-troni/)</i>
+⠀⠀⠀<i>To learn more about me, visit: [Gabriel Troni](https://www.linkedin.com/in/gabriel-troni/?locale=en_US)</i>
 
 </br>
 <p align="left">

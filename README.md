@@ -9,11 +9,11 @@
 
 <h2 align="left">About Me</h2>
 
-💼 Currently working as **IT Support** at **[APK Transportation and Logistics](https://www.apk.com.br/)**
+💼 Currently working as **Back-end Developer** at **[Compass UOL]([https://www.apk.com.br/](https://www.linkedin.com/company/compass-uol/posts/?feedView=all))**
 
 📚 In the 5th semester (out of 6) of my undergraduate course in Systems Analysis and Development at UFPR
 
-👨🏻‍💻 Currently learning **how to build REST APIs with Spring Boot, Java, and Kotlin**
+👨🏻‍💻 Currently learning **how to build REST APIs with Node.js**
 
 💡 To learn more about me, visit: [Gabriel Troni](https://www.linkedin.com/in/gabriel-troni/)
 

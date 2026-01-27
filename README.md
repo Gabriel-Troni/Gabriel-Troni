@@ -15,8 +15,13 @@
    </a>
 </p>
 
-## 🌐 Idioma | Language
-**[Português](#português)** | **[English](#english)** 
+<div align="center">
+  <h3>🌐 Idioma | Language</h3>
+  <p>
+    <a href="#português">Português</a> |
+    <a href="#english">English</a>
+  </p>
+</div>
 
 ---
 

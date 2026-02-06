@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/GabrielTroniHeaderMinecraft2.PNG" alt="Gabriel Troni Header">
+  <img src="assets/GabrielTroniHeaderMinecraft.PNG" alt="Gabriel Troni Header">
 </p>
 
 <p align="center"> 

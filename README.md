@@ -46,14 +46,13 @@
 ### ⭐ Certificações
 
 <p>
-  <a href="https://certs.duolingo.com/f54402b3c87c5db1a5976b4dfbe618f4">
-    <img src="https://img.shields.io/badge/Duolingo_English_Test-Intermediário_Avançado_(B2)-58cc02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo English Test - Intermediário Avançado (CEFR B2)"/>
-  </a>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-22303e?style=for-the-badge&logo=cloudflare&logoColor=white" alt="AWS: Cloud Practitioner"/>
 </p>
 <p>
-  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/GabrielTroni-9147/BCB4241CA23C9FAB?sharingId=F417EF2895D34851">
-    <img src="https://img.shields.io/badge/Microsoft-AI--900_Fundamentos_de_IA_do_Azure-0078D4?style=for-the-badge&logo=ansible&logoColor=white" alt="Microsoft AI-900: Fundamentos de IA do Azure"/>
-  </a>
+  <img src="https://img.shields.io/badge/Microsoft_AI--900-Fundamentos_de_IA_do_Azure-0078D4?style=for-the-badge&logo=ansible&logoColor=white" alt="Microsoft AI-900: Fundamentos de IA do Azure"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Duolingo_English_Test-Intermediário_Avançado_(B2)-58cc02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo English Test - Intermediário Avançado (CEFR B2)"/>
 </p>
 
 ### 🛠️ Principais Habilidades
@@ -104,14 +103,13 @@
 ### ⭐ Certifications
 
 <p>
-  <a href="https://certs.duolingo.com/f54402b3c87c5db1a5976b4dfbe618f4">
-    <img src="https://img.shields.io/badge/Duolingo_English_Test-Upper_Intermediate_(B2)-58cc02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo English Test - Upper Intermediate (CEFR B2)"/>
-  </a>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-22303e?style=for-the-badge&logo=cloudflare&logoColor=white" alt="AWS: Cloud Practitioner"/>
 </p>
 <p>
-  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/GabrielTroni-9147/BCB4241CA23C9FAB?sharingId=F417EF2895D34851">
-    <img src="https://img.shields.io/badge/Microsoft-AI--900_Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=ansible&logoColor=white" alt="Microsoft AI-900: Azure AI Fundamentals"/>
-  </a>
+  <img src="https://img.shields.io/badge/Microsoft_AI--900-Fundamentos_de_IA_do_Azure-0078D4?style=for-the-badge&logo=ansible&logoColor=white" alt="Microsoft AI-900: Fundamentos de IA do Azure"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Duolingo_English_Test-Intermediário_Avançado_(B2)-58cc02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo English Test - Intermediário Avançado (CEFR B2)"/>
 </p>
 
 ### 🛠️ Main Skills

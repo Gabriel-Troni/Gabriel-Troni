@@ -106,10 +106,10 @@
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-22303e?style=for-the-badge&logo=cloudflare&logoColor=white" alt="AWS: Cloud Practitioner"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_AI--900-Fundamentos_de_IA_do_Azure-0078D4?style=for-the-badge&logo=ansible&logoColor=white" alt="Microsoft AI-900: Fundamentos de IA do Azure"/>
+  <img src="https://img.shields.io/badge/Microsoft_AI--900-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=ansible&logoColor=white" alt="Microsoft AI-900: Fundamentos de IA do Azure"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Duolingo_English_Test-Intermediário_Avançado_(B2)-58cc02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo English Test - Intermediário Avançado (CEFR B2)"/>
+  <img src="https://img.shields.io/badge/Duolingo_English_Test-Upper_Intermediate_(B2)-58cc02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo English Test - Intermediário Avançado (CEFR B2)"/>
 </p>
 
 ### 🛠️ Main Skills
